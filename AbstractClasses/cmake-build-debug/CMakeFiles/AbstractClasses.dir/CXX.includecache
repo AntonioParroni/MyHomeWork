@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/AbstractClasses/AbastractClasses.cpp
+AbastractClasses.h
+/home/ray/Documents/DTTAH/windows/CLion/AbstractClasses/AbastractClasses.h
+
+/home/ray/Documents/DTTAH/windows/CLion/AbstractClasses/AbastractClasses.h
+iostream
+-
+cstring
+-
+
+/home/ray/Documents/DTTAH/windows/CLion/AbstractClasses/main.cpp
+AbastractClasses.h
+/home/ray/Documents/DTTAH/windows/CLion/AbstractClasses/AbastractClasses.h
+

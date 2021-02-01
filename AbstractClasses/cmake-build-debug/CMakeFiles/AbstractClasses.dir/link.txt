@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AbstractClasses.dir/main.cpp.o CMakeFiles/AbstractClasses.dir/AbastractClasses.cpp.o  -o AbstractClasses 
