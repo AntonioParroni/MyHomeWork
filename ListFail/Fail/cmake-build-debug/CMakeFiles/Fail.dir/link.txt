@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fail.dir/main.cpp.o  -o Fail 

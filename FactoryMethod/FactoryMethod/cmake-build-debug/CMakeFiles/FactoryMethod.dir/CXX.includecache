@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/FactoryMethod/Factory.cpp
+Factory.h
+/home/ray/Documents/DTTAH/windows/CLion/FactoryMethod/Factory.h
+
+/home/ray/Documents/DTTAH/windows/CLion/FactoryMethod/Factory.h
+iostream
+-
+string
+-
+

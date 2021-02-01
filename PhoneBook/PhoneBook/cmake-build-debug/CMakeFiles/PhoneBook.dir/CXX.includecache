@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/PhoneBook/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+

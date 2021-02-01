@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ray/CLionProjects/inheritance/ForeignPassport.h
+Passport.h
+C:/Users/Ray/CLionProjects/inheritance/Passport.h
+
+C:/Users/Ray/CLionProjects/inheritance/Passport.h
+iostream
+-
+string
+-
+chrono
+-
+
+C:/Users/Ray/CLionProjects/inheritance/main.cpp
+Passport.h
+C:/Users/Ray/CLionProjects/inheritance/Passport.h
+ForeignPassport.h
+C:/Users/Ray/CLionProjects/inheritance/ForeignPassport.h
+

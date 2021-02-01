@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/Obeserver/Observer.h
+iostream
+-
+string
+-
+list
+-
+vector
+-
+
+/home/ray/Documents/DTTAH/windows/CLion/Obeserver/main.cpp
+Observer.h
+/home/ray/Documents/DTTAH/windows/CLion/Obeserver/Observer.h
+

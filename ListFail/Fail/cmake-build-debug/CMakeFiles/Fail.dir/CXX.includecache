@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/Fail/List.h
+Node.h
+/home/ray/Documents/DTTAH/windows/CLion/Fail/Node.h
+iostream
+-
+initializer_list
+-
+
+/home/ray/Documents/DTTAH/windows/CLion/Fail/Node.h
+
+/home/ray/Documents/DTTAH/windows/CLion/Fail/main.cpp
+iostream
+-
+List.h
+/home/ray/Documents/DTTAH/windows/CLion/Fail/List.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Obeserver.dir/main.cpp.o CMakeFiles/Obeserver.dir/Observer.cpp.o  -o Obeserver 

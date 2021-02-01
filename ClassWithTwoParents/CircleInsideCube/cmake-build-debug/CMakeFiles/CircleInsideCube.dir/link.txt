@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CircleInsideCube.dir/main.cpp.o  -o CircleInsideCube 

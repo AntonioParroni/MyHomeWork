@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FactoryMethod.dir/main.cpp.o CMakeFiles/FactoryMethod.dir/Factory.cpp.o  -o FactoryMethod 
